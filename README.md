@@ -2,9 +2,9 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 Always wants to upscale my skills
 
-- 👨‍💻 All of my projects are available at [https://sriram-portfoliox.vercel.app/](https://sriram-portfoliox.vercel.app/)
+- 👨‍💻 My Portfolio [https://sriram-portfoliox.vercel.app/](https://sriram-portfoliox.vercel.app/)
 
 - 📫 How to reach me **radheysriram@gmail.com**
 
