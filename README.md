@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nirujogi Sriram Radhey</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
 
 
 - 🌱 Always wants to upscale my skills
